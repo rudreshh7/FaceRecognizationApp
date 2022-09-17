@@ -1,2 +1,2 @@
 # FaceRecognizationApp
-A
+Live : https://project-smartbrain.herokuapp.com/
